@@ -10,7 +10,7 @@ with 20 cars, including their license plates, model, description, and owner ID.
 - `.gitignore` — files to ignore in Git
 - `README.md` — project description
 
-## How to run
+
 
 ```bash
 cd src
