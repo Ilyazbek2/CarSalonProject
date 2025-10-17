@@ -11,7 +11,7 @@ with 20 cars, including their license plates, model, description, and owner ID.
 - `README.md` — project description
 
 
-
+## Run it
 ```bash
 cd src
 python insert_cars.py
