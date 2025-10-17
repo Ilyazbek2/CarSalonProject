@@ -1,12 +1,9 @@
 
----
 
 ✅ Now your project is **professional, GitHub-ready**:  
 - Clean structure  
 - Well-commented script  
 - README with instructions  
 - .gitignore to avoid unnecessary files  
-
----
 
 
